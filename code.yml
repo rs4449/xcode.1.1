@@ -1,6 +1,0 @@
-trigger:
-- main
-pool:
-  vmImage: 'macos-latest'
-  print("Hello, how are you?")
-  print("¿Hola, como estas?")
